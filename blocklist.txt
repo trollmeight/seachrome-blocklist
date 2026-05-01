@@ -1,0 +1,4 @@
+deviceenrollment.googleapis.com
+chromeosdevicemanagement.googleapis.com
+www.googleapis.com
+oauth2.googleapis.com
