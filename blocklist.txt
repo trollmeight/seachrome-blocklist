@@ -1,3 +1,15 @@
+edgedl.me.gvt1.com
+www.gstatic.com
+play.google.com
+www.google.com
 www.googleapis.com
-m.google.com
+maps.googleapis.com
+ssl.gstatic.com
+tools.google.com
+connectivitycheck.gstatic.com
+lh3.googleusercontent.com
+update.googleapis.com
+safebrowsingohttpgateway.googleapis.com
+clientservices.googleapis.com
 chromereporting-pa.googleapis.com
+m.google.com
