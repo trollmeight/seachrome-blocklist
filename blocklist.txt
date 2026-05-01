@@ -1,7 +1,3 @@
-deviceenrollment.googleapis.com
-chromeosdevicemanagement.googleapis.com
-www.googleapis.com
-oauth2.googleapis.com
 www.googleapis.com
 m.google.com
 chromereporting-pa.googleapis.com
